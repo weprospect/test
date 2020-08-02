@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  grafana-operator:
+  - apiVersion: v2
+    created: "2020-08-02T10:39:25.738078296+10:00"
+    description: installs grafana operator
+    digest: 9a655c6227da70dd0e398fe85f610d2983c8540f7f2f9641f574af8cb2b97a04
+    name: grafana-operator
+    urls:
+    - https://weprospect.github.io/test/bin/grafana-operator-0.1.tgz
+    version: "0.1"
+generated: "2020-08-02T10:39:25.737701207+10:00"
